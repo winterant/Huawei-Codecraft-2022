@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -std=c++11 -rdynamic CMakeFiles/CodeCraft-2022.dir/CodeCraft-2022.cpp.o CMakeFiles/CodeCraft-2022.dir/database.cpp.o CMakeFiles/CodeCraft-2022.dir/graph.cpp.o CMakeFiles/CodeCraft-2022.dir/solution.cpp.o -o /mnt/d/project/contest/Huawei-CodeCraft-2022/round2/SDK_C++/bin/CodeCraft-2022 

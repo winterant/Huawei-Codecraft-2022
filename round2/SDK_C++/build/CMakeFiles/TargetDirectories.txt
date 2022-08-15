@@ -1,0 +1,3 @@
+/mnt/d/project/contest/Huawei-CodeCraft-2022/round2/SDK_C++/build/CMakeFiles/CodeCraft-2022.dir
+/mnt/d/project/contest/Huawei-CodeCraft-2022/round2/SDK_C++/build/CMakeFiles/edit_cache.dir
+/mnt/d/project/contest/Huawei-CodeCraft-2022/round2/SDK_C++/build/CMakeFiles/rebuild_cache.dir
